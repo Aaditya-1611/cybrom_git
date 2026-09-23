@@ -7,4 +7,5 @@ create a file - readme.md
 the  write important terms of project
 then run same 3 commands
 
-then refresh github.com 
+then refresh github.com   
+now we will give the test
